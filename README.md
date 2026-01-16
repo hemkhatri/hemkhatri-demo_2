@@ -1,0 +1,1 @@
+**This is the licence file for the hemkhatri-2-demo**
